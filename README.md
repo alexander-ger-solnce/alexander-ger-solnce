@@ -1,4 +1,19 @@
-## Hi there 👋
+<div align="center">
+
+# Hi there 👋 I'm [user]
+
+### Senior Developer • 1 • 2 • 3
+
+Building scalable applications, ...
+
+### [Portfolio](https://alexander-ger-solnce.github.io/portfolio/)
+
+[Telegram](https://t.me/[sune]) • [Email](mailto:tsuevjudoka@gmail.com) • [Instagram](https://www.instagram.com/[sune]/) • [Blog](https://t.me/[sune])
+
+</div>
+
+---
+
 
 <!--
 **alexander-ger-solnce/alexander-ger-solnce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
