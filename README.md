@@ -8,7 +8,7 @@ Building scalable applications, ...
 
 ### [Portfolio](https://alexander-ger-solnce.github.io/portfolio/)
 
-[Telegram](https://t.me/[sune]) • [Email](mailto:tsuevjudoka@gmail.com) • [Instagram](https://www.instagram.com/[sune]/) • [Blog](https://t.me/[sune])
+[Telegram](https://t.me/[sune]) • [Email](mailto:test@test.com) • [Instagram](https://www.instagram.com/[sune]/) • [Blog](https://t.me/[sune])
 
 </div>
 
